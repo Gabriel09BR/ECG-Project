@@ -22,7 +22,7 @@ graph LR
     style D fill:#b3f5ff,stroke:#333,stroke-width:1px,color:#000
     style E fill:#b3f5ff,stroke:#333,stroke-width:1px,color:#000
     style F fill:#d3ffd3,stroke:#333,stroke-width:1px,color:#000
-
+```
 ## How It Works
 
 1. The ECG signal is acquired from the electrodes.
